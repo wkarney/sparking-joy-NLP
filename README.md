@@ -27,7 +27,7 @@ The NLP models herein have proven successful at accurately predicting whether a 
 ## Data Gathering Process
 I pulled Reddit posts using either the Reddit API (via the [Python Reddit API Wrapper (PRAW)](https://praw.readthedocs.io/en/latest/)) or the [Pushshift API](https://pushshift.io).
 
-The initial dataset included 4,936 posts from r/konmari and r/hoarding with approximately being from r/konmari.
+The initial dataset included 4,936 posts from r/konmari and r/hoarding with approximately 53% being from r/konmari.
 
 ## Conclusions
 
